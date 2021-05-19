@@ -20,9 +20,6 @@ struct Camera
 {
 	int16_t x;
 	int16_t y;
-
-	uint8_t width;
-	uint8_t height;
 };
 
 struct Entity
